@@ -25,5 +25,5 @@ To run this website locally:
 
 1. **Clone the repository**  
    ```sh
-   git clone https://github.com/YOUR_USERNAME/portfolio-website.git
+   git clone https://github.com/sooraj1401/portfolio-website.git
    cd portfolio-website
